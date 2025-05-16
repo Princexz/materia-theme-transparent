@@ -115,3 +115,7 @@ Materia is distributed under the terms of the GNU General Public License, versio
 - Our Meson code is heavily influenced by @monday15's [lounge-gtk-theme](https://github.com/monday15/lounge-gtk-theme).
 
 Also thank you to all contributors and upstream developers.
+
+## Contact
+
+For any inquiries, please contact Prince at Prince_solomon@yahoo.com.
